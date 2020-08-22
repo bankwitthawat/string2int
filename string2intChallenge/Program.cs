@@ -12,7 +12,6 @@ namespace string2intChallenge
         {
             Console.WriteLine("please input your string: ");
 
-            //string str2int = 
             string a = Console.ReadLine();
             string b = string.Empty;
             int val;
