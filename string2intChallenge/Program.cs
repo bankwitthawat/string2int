@@ -11,13 +11,16 @@ namespace string2intChallenge
         static void Main(string[] args)
         {
             Console.WriteLine("please input your string: ");
-
             string input = Console.ReadLine();
             string result = new String(input.Where(Char.IsDigit).ToArray());
 
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("your digi is " + int.Parse(result));
+            if (!string.IsNullOrEmpty(result))
+                Console.WriteLine("your number is " + int.Parse(result));
+            else
+                Console.WriteLine("error: your string not have number.");
+
             Console.Read();
 
 
