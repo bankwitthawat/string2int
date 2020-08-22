@@ -5,3 +5,15 @@ D:\AppMan\string2intChallenge\obj\Debug\string2intChallenge.csprojAssemblyRefere
 D:\AppMan\string2intChallenge\obj\Debug\string2intChallenge.csproj.CoreCompileInputs.cache
 D:\AppMan\string2intChallenge\obj\Debug\string2intChallenge.exe
 D:\AppMan\string2intChallenge\obj\Debug\string2intChallenge.pdb
+D:\AppMan\New folder\string2intChallenge\bin\Debug\string2intChallenge.exe.config
+D:\AppMan\New folder\string2intChallenge\bin\Debug\string2intChallenge.exe
+D:\AppMan\New folder\string2intChallenge\bin\Debug\string2intChallenge.pdb
+D:\AppMan\New folder\string2intChallenge\bin\Debug\EntityFramework.dll
+D:\AppMan\New folder\string2intChallenge\bin\Debug\EntityFramework.SqlServer.dll
+D:\AppMan\New folder\string2intChallenge\bin\Debug\EntityFramework.xml
+D:\AppMan\New folder\string2intChallenge\bin\Debug\EntityFramework.SqlServer.xml
+D:\AppMan\New folder\string2intChallenge\obj\Debug\string2intChallenge.csprojAssemblyReference.cache
+D:\AppMan\New folder\string2intChallenge\obj\Debug\string2intChallenge.csproj.CoreCompileInputs.cache
+D:\AppMan\New folder\string2intChallenge\obj\Debug\string2intChallenge.csproj.CopyComplete
+D:\AppMan\New folder\string2intChallenge\obj\Debug\string2intChallenge.exe
+D:\AppMan\New folder\string2intChallenge\obj\Debug\string2intChallenge.pdb
