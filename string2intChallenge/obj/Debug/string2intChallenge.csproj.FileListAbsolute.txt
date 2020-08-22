@@ -1,0 +1,7 @@
+D:\AppMan\string2intChallenge\bin\Debug\string2intChallenge.exe.config
+D:\AppMan\string2intChallenge\bin\Debug\string2intChallenge.exe
+D:\AppMan\string2intChallenge\bin\Debug\string2intChallenge.pdb
+D:\AppMan\string2intChallenge\obj\Debug\string2intChallenge.csprojAssemblyReference.cache
+D:\AppMan\string2intChallenge\obj\Debug\string2intChallenge.csproj.CoreCompileInputs.cache
+D:\AppMan\string2intChallenge\obj\Debug\string2intChallenge.exe
+D:\AppMan\string2intChallenge\obj\Debug\string2intChallenge.pdb
